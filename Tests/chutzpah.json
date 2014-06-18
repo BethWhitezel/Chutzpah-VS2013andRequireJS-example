@@ -1,0 +1,9 @@
+﻿{
+    "Framework": "qunit",
+    "TestHarnessReferenceMode": "AMD",
+    "TestHarnessLocationMode": "SettingsFileAdjacent",
+    "References" : [
+        {"Path" : "../Scripts/require.js" },
+        {"Path" : "../Scripts/knockout-3.1.0.debug.js" }
+    ]
+}
